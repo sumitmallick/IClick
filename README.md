@@ -1,4 +1,4 @@
-# Online_Voting_Management_System
+# Online Voting Management System
 
 A web application made on Django Framework, makes use of front end languages like HTML, Bootstrap CSS and python, SQLlite3 for backend. This makes the entire voting process online.
 
